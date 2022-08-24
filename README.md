@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi I'm Suniparb, Welcome to my Github profile 👋
+
+### I'm a web developer 👋
+
+- 🔭 I’m currently working on The Center for Academic Services,Walailak University
+- 🌱 I’m currently learning: React
+- 💬 Ask me about Web Developer
+- 📫 How to reach me:  suntiparb.tu@gmail.com
 
 <!--
 **suntiparb72/suntiparb72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
